@@ -48,6 +48,7 @@ Load regulator:
 <img width="947" height="556" alt="Screenshot 2026-05-25 003014" src="https://github.com/user-attachments/assets/d8a91c32-1239-4aeb-ba74-d881f26f291e" />
 
 PRECAUTIONS:
+
 6. While doing the experiment do not exceed the ratings of the zener diode. This may lead to damage the diode.
 
 7. Connect voltmeter and Ammeter in correct polarities as shown in the circuit diagram.
